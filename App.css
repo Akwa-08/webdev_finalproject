@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+button{
+  background-color:#2f5d8c;
+}
+
+.ticket button{
+  background-color:#f9f9f9;
+  color: #2f5d8c;
+  height:60px;
+  padding: 0px 10px;
+  margin: 2px;
+}
+
+.ticket{
+  color: #f9f9f9;
+  background-color:#2f5d8c;
+  border-radius: 6px;
+  font-weight: bold;
+}
